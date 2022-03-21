@@ -1,0 +1,19 @@
+{
+  "name": "@rakia64/how-to-npm-dir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "this is rakia64's practice package",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.example.com"
+  },
+  "devDependencies": {}
+}
